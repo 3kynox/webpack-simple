@@ -19,3 +19,6 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 Une ligne en plus
 Une deuxième ligne
+
+On est les rois du baby
+
